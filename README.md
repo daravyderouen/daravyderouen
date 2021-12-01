@@ -13,10 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/daravyderouen/daravyderouen.github.io-.git](https://github.com/daravyderouen/daravyderouen.github.io-.git)
 
-- 📫 How to reach me **derouen.daravy@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/daravy](https://www.linkedin.com/in/daravy)
-
 - ⚡ Fun fact **I love photography & cooking.**
 
 <h3 align="left">Connect with me:</h3>
