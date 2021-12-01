@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/daravycodes" target="blank"><img src="https://img.shields.io/twitter/follow/daravycodes?logo=twitter&style=for-the-badge" alt="daravycodes" /></a> </p>
 
-- 🔭 I’m currently working on [Potluck Capstone](https://potluck-capstone-daravy.herokuapp.com/)
+- 🔭 I’m currently working on my [Potluck Mini-Capstone Project:](https://potluck-capstone-daravy.herokuapp.com/)
 
 - 🌱 I’m currently learning **Javascript & in the future Python, React, Java, and C++.**
 
